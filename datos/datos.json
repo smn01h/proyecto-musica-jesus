@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "Homerun",
+        "categoria": "Paulo Londra",
+        "precio": 350.00,
+        "descripcion": "Álbum debut de estudio del artista argentino Paulo Londra.",
+        "stock": 15
+    },
+    {
+        "id": 2,
+        "nombre": "Balas Perdidas",
+        "categoria": "Morat",
+        "precio": 420.00,
+        "descripcion": "Segundo álbum de estudio de la banda colombiana Morat.",
+        "stock": 20
+    },
+    {
+        "id": 3,
+        "nombre": "Back to the Game",
+        "categoria": "Paulo Londra",
+        "precio": 380.00,
+        "descripcion": "Álbum de regreso de Paulo Londra con colaboraciones internacionales.",
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "nombre": "Si Ayer Fuera Hoy",
+        "categoria": "Morat",
+        "precio": 450.00,
+        "descripcion": "Cuarto álbum de estudio de Morat con un sonido más maduro y rockero.",
+        "stock": 12
+    },
+    {
+        "id": 5,
+        "nombre": "Dhuizard Sessions",
+        "categoria": "Dhuizard",
+        "precio": 299.00,
+        "descripcion": "Colección de sencillos y producciones musicales de Dhuizard.",
+        "stock": 8
+    }
+]
